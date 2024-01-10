@@ -5,6 +5,6 @@ _This text is italicized_
 ***All this text is important***
 This is a <sub>subscript</sub> tex
 This is a <sup>superscript</sup> text
-> Text that is a quote
 'rgb(9, 105, 218)'
 `#0969DA
+> Text that is a quote
