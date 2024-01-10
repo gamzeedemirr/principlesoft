@@ -1,1 +1,13 @@
-//gamze
+STEP a
+git config --global user.name "Gamze Demir"
+git config --global user.email "19soft1052@isik.edu.tr"
+git config --global core.editor "Adobe Premiere Pro"
+git config --list
+
+STEP b
+git clone https://github.com/gamzeedemirr/principlesoft.git
+cd your-repository
+ls
+ls -a
+
+STEP c
