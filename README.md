@@ -1,3 +1,4 @@
+This site was built using [pages.github.com](https://www.isikun.edu.tr/).
 **This is bold text**
 _This text is italicized_
 ~~This was mistaken text~~
